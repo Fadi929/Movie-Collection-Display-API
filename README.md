@@ -102,7 +102,7 @@ movie-collection-api/ ├── node_modules/ (Ignored by Git) ├── public/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPO_URL_HERE]
+    git clone https://github.com/Fadi929/Movie-Collection-Display-API.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -135,7 +135,7 @@ movie-collection-api/ ├── node_modules/ (Ignored by Git) ├── public/
 
 ## 8. GitHub Repository Link
 
-[YOUR_GITHUB_REPO_URL_HERE]
+https://github.com/Fadi929/Movie-Collection-Display-API.git
 
 ## 9. Author Information
 
